@@ -1,0 +1,1 @@
+# bridge-nova-solution-with-photoresistor-only-27-04-2026
